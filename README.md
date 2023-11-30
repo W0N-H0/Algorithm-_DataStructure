@@ -26,3 +26,8 @@
 - push: 요소 추가
 - pop: 요소 삭제
 - top: 최상단의 요소
+
+### 큐: First In First Out - like 줄서기
+
+- Enqueue: 요소 추가
+- Dequeue: 요소 삭제
